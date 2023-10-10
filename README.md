@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RazvanElectriHome
+- 👀 I’m interested in creating a Web-app for residential electrical services
+- 🌱 I’m currently learning like every aspect of the project
+- 💞️ I’m looking to collaborate on portions of the project where I can't figure it out myself with my knowladge
+- 📫 How to reach me: at razvan@electrihome.ro
